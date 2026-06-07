@@ -206,3 +206,4 @@ If you found this project useful:
 ### 🚀 Built with Python + Streamlit + OpenCV
 
 </div>
+Contributed via pull request.
